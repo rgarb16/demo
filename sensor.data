@@ -1,0 +1,7 @@
+{  
+ "sensor_id": 1,  
+ "recorded_time": "21:43:02.341230", 
+ "recorded_date": "2019-12-09", 
+ "sensor_type": "tmp", 
+ "sensor_data": 30.3,  
+}
